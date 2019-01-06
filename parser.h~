@@ -1,0 +1,12 @@
+#include "command.h"
+
+class Parser
+{
+ private:
+  Command * cmd;
+  Command * parse(char * commandFromStdin);
+
+ public:
+  Parser();
+  ~Parser();
+};
