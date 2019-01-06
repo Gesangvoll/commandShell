@@ -1,6 +1,0 @@
-#include <iostream>
-
-int main() {
-  char * env = getenv("PATH");
-  std::cout << env << std::endl;
-}
