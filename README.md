@@ -6,5 +6,3 @@ A command shell implemented with C++.
 2. Good operations on whitespaces.
 3. Built-in commands:cd, set, export, inc. Support of variables.
 
-## To Do
-Redireciton and pipe.
